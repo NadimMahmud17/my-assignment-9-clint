@@ -13,7 +13,7 @@ const Services = (props) => {
                             <h5>Techer name: {name}</h5>
                             <p><small>Course: {}</small></p>
                              <p><small>Previous Teching center: {}</small></p>
-                            <p><small>Email :{price}</small></p>
+                            <p><small>Price:{price}</small></p>
                             
                             <button className="btn btn-success">Contact Us</button>
                             </div>
